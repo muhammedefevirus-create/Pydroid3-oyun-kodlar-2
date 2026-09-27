@@ -18,3 +18,6 @@ Oyuna telif hakkı atılamaz oyunun ismi flappy bird 2.0 olduğu için ve oyun b
 
 Oyun kodu readme dosyasının hemen altında kopyalıyıp pydroid3 e yapıştırın ve çalışırın hata verirse sağ soldaki 3 çizgiye basıp ordaki pip tuşuna basın oraya pygame yazın ve yükleyin altya completed derse çıkın ve kodu tekrar çalıştırın 
 
+🖥️BİLGİSAYAR VERSİYONU🖥️
+
+Linux tabanlı bilgisayar versiyonu flappy bird 2.0 çıktı üstten indirebilirsiniz
